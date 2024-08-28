@@ -483,7 +483,7 @@ The final step in documenting a codebase is to provide supporting diagrams to he
 **Prompt:**
 
 ```txt
-Create a Mermaid Entity Relationship diagram from #file:models.py #file:services.py #file:controllers.py
+Create a Mermaid flowchart from #file:models.py #file:services.py #file:controllers.py
 ```
 
 <details>
